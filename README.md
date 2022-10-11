@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Começando os trabalhos com Front-end
-- 🌱 Atualmente estudando python 
+- 🌱 Estudando python atualmente
 - 📫 Contate-me no email: gabdeschamps1@gmail.com
     
     ##
