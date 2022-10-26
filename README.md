@@ -1,9 +1,8 @@
-### Salve! meu nome é Gabriel👋
+### Welcome.
 
 ##
 
-- 🔭 Começando os trabalhos com Front-end
-- 🌱 Estudando python atualmente
+-  Começando os trabalhos com Front-end
 - 📫 Contate-me no email: gabdeschamps1@gmail.com
     
 ##
