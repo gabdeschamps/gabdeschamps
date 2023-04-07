@@ -2,7 +2,7 @@
 
 ##
 
--  Começando os trabalhos com Front-end
+
 - 📫 Contate-me no email: gabdeschamps1@gmail.com
     
 ##
