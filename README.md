@@ -1,9 +1,9 @@
-### Welcome.
+
 
 ##
 
 
-- 📫 Contate-me no email: gabdeschamps1@gmail.com
+e-mail: gabdeschamps1@gmail.com
     
 ##
     
