@@ -17,10 +17,9 @@
 
 <div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="gab-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gab-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gab-JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="gab-C" height="50" width="50" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg>
+
+  <img align="center" alt="gab-python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python3/python3-original.svg">
+
   <img align="right" justify-content:"space-between" height=120px alt="gab-bleach" src="https://media.tenor.com/fTKfFMOURxQAAAAC/bleach-bleach-anime.gif">
 </div>
 
