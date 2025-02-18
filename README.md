@@ -3,7 +3,7 @@
 ##
 
 
-e-mail: gabdeschamps1@gmail.com     Instagram: @gabdeschamps_
+e-mail: gabdeschamps1@gmail.com    
     
 ##
     
