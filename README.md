@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="righ">
   <a href="https://www.instagram.com/oce.tech?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Oce.tech&logo=instagram&label=&color=0E3141&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
